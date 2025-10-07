@@ -23,10 +23,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           </header>
           {children}
           <footer className="footer">
-            <div className="footer-content">
-              <p className="footer-creator">Created by Suma Mandalapu</p>
-              <p className="footer-copyright">© {new Date().getFullYear()} Subrahmanya Ashtottara. All rights reserved.</p>
-            </div>
+            <p>App created by Suma Mandalapu.</p>
           </footer>
         </div>
       </body>
