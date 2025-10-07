@@ -70,3 +70,6 @@ out/
 # Temporary files
 *.tmp
 *.temp
+
+# Next.js build output
+.next/

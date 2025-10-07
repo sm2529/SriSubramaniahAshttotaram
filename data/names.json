@@ -1,0 +1,866 @@
+[
+  {
+    "id": 1,
+    "telugu_name": "స్కందాయ",
+    "transliteration_en": "Skandaya",
+    "meaning_te": "వేగవంతుడు, కార్తికేయుడు",
+    "english_meaning": "The swift one, Lord Kartikeya",
+    "audio_url": null
+  },
+  {
+    "id": 2,
+    "telugu_name": "గుహాయ",
+    "transliteration_en": "Guhaya",
+    "meaning_te": "గుహలో నివసించేవాడు, రహస్యమైనవాడు",
+    "english_meaning": "One who dwells in caves, the mysterious one",
+    "audio_url": null
+  },
+  {
+    "id": 3,
+    "telugu_name": "షణ్ముఖాయ",
+    "transliteration_en": "Shanmukhaya",
+    "meaning_te": "ఆరు ముఖాలు కలవాడు",
+    "english_meaning": "The six-faced one",
+    "audio_url": null
+  },
+  {
+    "id": 4,
+    "telugu_name": "ఫాలనేత్రసుతాయ",
+    "transliteration_en": "Phalanetra Suthaya",
+    "meaning_te": "నుదిటి నేత్రం కలిగిన శివుని కుమారుడు",
+    "english_meaning": "Son of the one with the eye on the forehead (Shiva)",
+    "audio_url": null
+  },
+  {
+    "id": 5,
+    "telugu_name": "ప్రభవే",
+    "transliteration_en": "Prabhave",
+    "meaning_te": "శక్తివంతుడు, ప్రభువు",
+    "english_meaning": "The powerful one, the Lord",
+    "audio_url": null
+  },
+  {
+    "id": 6,
+    "telugu_name": "పింగళాయ",
+    "transliteration_en": "Pingalaya",
+    "meaning_te": "ఎరుపు రంగు కలవాడు",
+    "english_meaning": "One with reddish-brown complexion",
+    "audio_url": null
+  },
+  {
+    "id": 7,
+    "telugu_name": "కృత్తికాసూనవే",
+    "transliteration_en": "Kruttika Sunave",
+    "meaning_te": "కృత్తికా దేవతల కుమారుడు",
+    "english_meaning": "Son of the Krittikas (six divine mothers)",
+    "audio_url": null
+  },
+  {
+    "id": 8,
+    "telugu_name": "శిఖివాహాయ",
+    "transliteration_en": "Sikhi Vahanaya",
+    "meaning_te": "నెమలి వాహనం కలవాడు",
+    "english_meaning": "One who rides a peacock",
+    "audio_url": null
+  },
+  {
+    "id": 9,
+    "telugu_name": "ద్విషడ్భుజాయ",
+    "transliteration_en": "Dwishad Bhujaya",
+    "meaning_te": "పన్నెండు చేతులు కలవాడు",
+    "english_meaning": "One with twelve arms",
+    "audio_url": null
+  },
+  {
+    "id": 10,
+    "telugu_name": "ద్విషణ్ణేత్రాయ",
+    "transliteration_en": "Dwishan Netraya",
+    "meaning_te": "పన్నెండు కన్నులు కలవాడు",
+    "english_meaning": "One with twelve eyes",
+    "audio_url": null
+  },
+  {
+    "id": 11,
+    "telugu_name": "శక్తిధరాయ",
+    "transliteration_en": "Shaktidharaya",
+    "meaning_te": "శక్తి ఆయుధం ధరించినవాడు",
+    "english_meaning": "Bearer of the divine spear (Vel)",
+    "audio_url": null
+  },
+  {
+    "id": 12,
+    "telugu_name": "పిశితాశప్రభంజనాయ",
+    "transliteration_en": "Pishitasha Prabhanjanaya",
+    "meaning_te": "పిశాచాలను నాశనం చేసేవాడు",
+    "english_meaning": "Destroyer of flesh-eating demons",
+    "audio_url": null
+  },
+  {
+    "id": 13,
+    "telugu_name": "తారకాసుర సంహారిణే",
+    "transliteration_en": "Tarakasura Samharine",
+    "meaning_te": "తారకాసురుడిని సంహరించినవాడు",
+    "english_meaning": "Slayer of demon Tarakasura",
+    "audio_url": null
+  },
+  {
+    "id": 14,
+    "telugu_name": "రక్షోబలవిమర్దనాయ",
+    "transliteration_en": "Rakshobhala Vimardhanaya",
+    "meaning_te": "రాక్షసుల సైన్యాన్ని నాశనం చేసేవాడు",
+    "english_meaning": "Destroyer of demon armies",
+    "audio_url": null
+  },
+  {
+    "id": 15,
+    "telugu_name": "మత్తాయ",
+    "transliteration_en": "Matthaya",
+    "meaning_te": "ఆనందంతో మత్తుడైనవాడు",
+    "english_meaning": "The one intoxicated with bliss",
+    "audio_url": null
+  },
+  {
+    "id": 16,
+    "telugu_name": "ప్రమత్తాయ",
+    "transliteration_en": "Pramatthaya",
+    "meaning_te": "అత్యంత ఆనందవంతుడు",
+    "english_meaning": "The extremely joyful one",
+    "audio_url": null
+  },
+  {
+    "id": 17,
+    "telugu_name": "ఉన్మత్తాయ",
+    "transliteration_en": "Unmatthaya",
+    "meaning_te": "దివ్య ఆనందంతో నిండినవాడు",
+    "english_meaning": "Filled with divine ecstasy",
+    "audio_url": null
+  },
+  {
+    "id": 18,
+    "telugu_name": "సురసైన్య సురక్షకాయ",
+    "transliteration_en": "Surasainya Surakshakaya",
+    "meaning_te": "దేవతల సైన్యాన్ని రక్షించేవాడు",
+    "english_meaning": "Protector of the army of gods",
+    "audio_url": null
+  },
+  {
+    "id": 19,
+    "telugu_name": "దేవసేనాపతయే",
+    "transliteration_en": "Devasena-pathaye",
+    "meaning_te": "దేవతల సేనాధిపతి",
+    "english_meaning": "Commander of the celestial army",
+    "audio_url": null
+  },
+  {
+    "id": 20,
+    "telugu_name": "ప్రాజ్ఞాయ",
+    "transliteration_en": "Pragnyaya",
+    "meaning_te": "జ్ఞానవంతుడు",
+    "english_meaning": "The wise one",
+    "audio_url": null
+  },
+  {
+    "id": 21,
+    "telugu_name": "కృపాళవే",
+    "transliteration_en": "Krupalave",
+    "meaning_te": "కరుణామయుడు",
+    "english_meaning": "The compassionate one",
+    "audio_url": null
+  },
+  {
+    "id": 22,
+    "telugu_name": "భక్తవత్సలాయ",
+    "transliteration_en": "Bhaktha Vatsalaya",
+    "meaning_te": "భక్తులను ప్రేమించేవాడు",
+    "english_meaning": "Lover of devotees",
+    "audio_url": null
+  },
+  {
+    "id": 23,
+    "telugu_name": "ఉమాసుతాయ",
+    "transliteration_en": "Umasuthaya",
+    "meaning_te": "ఉమాదేవి కుమారుడు",
+    "english_meaning": "Son of Uma (Parvati)",
+    "audio_url": null
+  },
+  {
+    "id": 24,
+    "telugu_name": "శక్తిధరాయ",
+    "transliteration_en": "Shaktidharaya",
+    "meaning_te": "శక్తిని ధరించినవాడు",
+    "english_meaning": "Bearer of divine power",
+    "audio_url": null
+  },
+  {
+    "id": 25,
+    "telugu_name": "కుమారాయ",
+    "transliteration_en": "Kumuraya",
+    "meaning_te": "యువరాజు, శాశ్వత యువకుడు",
+    "english_meaning": "The eternal youth, the prince",
+    "audio_url": null
+  },
+  {
+    "id": 26,
+    "telugu_name": "క్రౌంచదారణాయ",
+    "transliteration_en": "Krauncha Dharanaya",
+    "meaning_te": "క్రౌంచ పర్వతాన్ని చీల్చినవాడు",
+    "english_meaning": "One who split the Krauncha mountain",
+    "audio_url": null
+  },
+  {
+    "id": 27,
+    "telugu_name": "సేనాన్యే",
+    "transliteration_en": "Senanye",
+    "meaning_te": "సైన్యాధిపతి",
+    "english_meaning": "Commander of armies",
+    "audio_url": null
+  },
+  {
+    "id": 28,
+    "telugu_name": "అగ్నిజన్మనే",
+    "transliteration_en": "Agni Janmaney",
+    "meaning_te": "అగ్ని నుండి జన్మించినవాడు",
+    "english_meaning": "Born from fire",
+    "audio_url": null
+  },
+  {
+    "id": 29,
+    "telugu_name": "విశాఖాయ",
+    "transliteration_en": "Vishakhaya",
+    "meaning_te": "విశాఖ నక్షత్రం పాలకుడు",
+    "english_meaning": "Lord of Vishakha star",
+    "audio_url": null
+  },
+  {
+    "id": 30,
+    "telugu_name": "శంకరాత్మజాయ",
+    "transliteration_en": "Shankaratmajaya",
+    "meaning_te": "శంకరుని కుమారుడు",
+    "english_meaning": "Son of Shankara (Shiva)",
+    "audio_url": null
+  },
+  {
+    "id": 31,
+    "telugu_name": "శివస్వామినే",
+    "transliteration_en": "Siva Swamine",
+    "meaning_te": "శివ స్వరూపుడు",
+    "english_meaning": "Embodiment of Shiva",
+    "audio_url": null
+  },
+  {
+    "id": 32,
+    "telugu_name": "గణస్వామినే",
+    "transliteration_en": "Gana Swamine",
+    "meaning_te": "గణాలకు అధిపతి",
+    "english_meaning": "Lord of divine beings",
+    "audio_url": null
+  },
+  {
+    "id": 33,
+    "telugu_name": "సర్వస్వామినే",
+    "transliteration_en": "Sarwa Swamine",
+    "meaning_te": "సర్వులకు ప్రభువు",
+    "english_meaning": "Lord of all",
+    "audio_url": null
+  },
+  {
+    "id": 34,
+    "telugu_name": "సనాతనాయ",
+    "transliteration_en": "Sanathanaya",
+    "meaning_te": "శాశ్వతమైనవాడు",
+    "english_meaning": "The eternal one",
+    "audio_url": null
+  },
+  {
+    "id": 35,
+    "telugu_name": "అనంతశక్తయే",
+    "transliteration_en": "Anantha Sakthaye",
+    "meaning_te": "అనంత శక్తి కలవాడు",
+    "english_meaning": "Possessor of infinite power",
+    "audio_url": null
+  },
+  {
+    "id": 36,
+    "telugu_name": "అక్షోభ్యాయ",
+    "transliteration_en": "Akshobhyaya",
+    "meaning_te": "కదల్చలేని, స్థిరమైనవాడు",
+    "english_meaning": "The unshakeable one",
+    "audio_url": null
+  },
+  {
+    "id": 37,
+    "telugu_name": "పార్వతీప్రియనందనాయ",
+    "transliteration_en": "Parvathi Priya Nandanaya",
+    "meaning_te": "పార్వతీ దేవికి ప్రియమైన కుమారుడు",
+    "english_meaning": "Dear son of Parvati",
+    "audio_url": null
+  },
+  {
+    "id": 38,
+    "telugu_name": "గంగాసుతాయ",
+    "transliteration_en": "Ganga Sutaya",
+    "meaning_te": "గంగా దేవి కుమారుడు",
+    "english_meaning": "Son of Ganga",
+    "audio_url": null
+  },
+  {
+    "id": 39,
+    "telugu_name": "శరోద్భూతాయ",
+    "transliteration_en": "Sarod Bhootaya",
+    "meaning_te": "సరస్సు నుండి ఉద్భవించినవాడు",
+    "english_meaning": "One born from the reeds",
+    "audio_url": null
+  },
+  {
+    "id": 40,
+    "telugu_name": "ఆహూతాయ",
+    "transliteration_en": "Aahutaya",
+    "meaning_te": "ఆహ్వానించబడినవాడు",
+    "english_meaning": "The invoked one",
+    "audio_url": null
+  },
+  {
+    "id": 41,
+    "telugu_name": "పావకాత్మజాయ",
+    "transliteration_en": "Pavakatmajaya",
+    "meaning_te": "అగ్నికి కుమారుడు",
+    "english_meaning": "Son of fire god",
+    "audio_url": null
+  },
+  {
+    "id": 42,
+    "telugu_name": "జృంభాయ",
+    "transliteration_en": "Jrumbhaya",
+    "meaning_te": "విస్తరించేవాడు",
+    "english_meaning": "The expanding one",
+    "audio_url": null
+  },
+  {
+    "id": 43,
+    "telugu_name": "ప్రజృంభాయ",
+    "transliteration_en": "Prajrumbhaya",
+    "meaning_te": "గొప్పగా విస్తరించేవాడు",
+    "english_meaning": "The greatly expanding one",
+    "audio_url": null
+  },
+  {
+    "id": 44,
+    "telugu_name": "ఉజ్జృంభాయ",
+    "transliteration_en": "Ujrumbhaya",
+    "meaning_te": "ఉన్నతంగా విస్తరించేవాడు",
+    "english_meaning": "The supremely expanding one",
+    "audio_url": null
+  },
+  {
+    "id": 45,
+    "telugu_name": "కమలాసనసంస్తుతాయ",
+    "transliteration_en": "Kamalasana Samstutaya",
+    "meaning_te": "బ్రహ్మదేవునిచే స్తుతించబడినవాడు",
+    "english_meaning": "Praised by Brahma",
+    "audio_url": null
+  },
+  {
+    "id": 46,
+    "telugu_name": "ఏకవర్ణాయ",
+    "transliteration_en": "Ekavarnaya",
+    "meaning_te": "ఏక వర్ణ స్వరూపుడు",
+    "english_meaning": "Of single color/nature",
+    "audio_url": null
+  },
+  {
+    "id": 47,
+    "telugu_name": "ద్వివర్ణాయ",
+    "transliteration_en": "Dwivarnaya",
+    "meaning_te": "రెండు వర్ణాల స్వరూపుడు",
+    "english_meaning": "Of dual nature",
+    "audio_url": null
+  },
+  {
+    "id": 48,
+    "telugu_name": "త్రివర్ణాయ",
+    "transliteration_en": "Trivarnaya",
+    "meaning_te": "మూడు వర్ణాల స్వరూపుడు",
+    "english_meaning": "Of three colors/natures",
+    "audio_url": null
+  },
+  {
+    "id": 49,
+    "telugu_name": "సుమనోహరాయ",
+    "transliteration_en": "Sumanoharaya",
+    "meaning_te": "అందమైన రూపం కలవాడు",
+    "english_meaning": "The beautiful one",
+    "audio_url": null
+  },
+  {
+    "id": 50,
+    "telugu_name": "చతుర్వర్ణాయ",
+    "transliteration_en": "Chatur Varnaya",
+    "meaning_te": "నాలుగు వర్ణాల స్వరూపుడు",
+    "english_meaning": "Of four natures",
+    "audio_url": null
+  },
+  {
+    "id": 51,
+    "telugu_name": "పంచవర్ణాయ",
+    "transliteration_en": "Pancha Varnaya",
+    "meaning_te": "ఐదు వర్ణాల స్వరూపుడు",
+    "english_meaning": "Of five colors/natures",
+    "audio_url": null
+  },
+  {
+    "id": 52,
+    "telugu_name": "ప్రజాపతయే",
+    "transliteration_en": "Prajapataye",
+    "meaning_te": "ప్రజల పాలకుడు",
+    "english_meaning": "Lord of creation",
+    "audio_url": null
+  },
+  {
+    "id": 53,
+    "telugu_name": "అహర్పతయే",
+    "transliteration_en": "Aharpataye",
+    "meaning_te": "దినాలకు అధిపతి",
+    "english_meaning": "Lord of the day",
+    "audio_url": null
+  },
+  {
+    "id": 54,
+    "telugu_name": "అగ్నిగర్భాయ",
+    "transliteration_en": "Agni Garbhaya",
+    "meaning_te": "అగ్ని గర్భంలో పుట్టినవాడు",
+    "english_meaning": "Born in fire's womb",
+    "audio_url": null
+  },
+  {
+    "id": 55,
+    "telugu_name": "శమీగర్భాయ",
+    "transliteration_en": "Sami Garbhaya",
+    "meaning_te": "శమీ వృక్షం నుండి పుట్టినవాడు",
+    "english_meaning": "Born from Shami tree",
+    "audio_url": null
+  },
+  {
+    "id": 56,
+    "telugu_name": "విశ్వరేతసే",
+    "transliteration_en": "Viswa Reythase",
+    "meaning_te": "విశ్వానికి బీజం",
+    "english_meaning": "Seed of the universe",
+    "audio_url": null
+  },
+  {
+    "id": 57,
+    "telugu_name": "సురారిఘ్నే",
+    "transliteration_en": "Surarighne",
+    "meaning_te": "దేవతల శత్రువులను సంహరించేవాడు",
+    "english_meaning": "Slayer of enemies of gods",
+    "audio_url": null
+  },
+  {
+    "id": 58,
+    "telugu_name": "హరిద్వర్ణాయ",
+    "transliteration_en": "Haridh Varnaya",
+    "meaning_te": "పచ్చని రంగు కలవాడు",
+    "english_meaning": "Of green complexion",
+    "audio_url": null
+  },
+  {
+    "id": 59,
+    "telugu_name": "శుభకరాయ",
+    "transliteration_en": "Shubhakaraya",
+    "meaning_te": "శుభం కలిగించేవాడు",
+    "english_meaning": "Bestower of auspiciousness",
+    "audio_url": null
+  },
+  {
+    "id": 60,
+    "telugu_name": "వటవే",
+    "transliteration_en": "Vatave",
+    "meaning_te": "చురుకైనవాడు",
+    "english_meaning": "The agile one",
+    "audio_url": null
+  },
+  {
+    "id": 61,
+    "telugu_name": "వటువేషభృతే",
+    "transliteration_en": "Vatuvesha Bruthey",
+    "meaning_te": "బ్రహ్మచారి వేషం ధరించినవాడు",
+    "english_meaning": "One dressed as a celibate student",
+    "audio_url": null
+  },
+  {
+    "id": 62,
+    "telugu_name": "పూష్ణే",
+    "transliteration_en": "Pushne",
+    "meaning_te": "పోషించేవాడు",
+    "english_meaning": "The nourisher",
+    "audio_url": null
+  },
+  {
+    "id": 63,
+    "telugu_name": "గభస్తయే",
+    "transliteration_en": "Gabhastaye",
+    "meaning_te": "కిరణాల వంటివాడు",
+    "english_meaning": "Radiant like sun rays",
+    "audio_url": null
+  },
+  {
+    "id": 64,
+    "telugu_name": "గహనాయ",
+    "transliteration_en": "Gahanaya",
+    "meaning_te": "లోతైనవాడు, అర్థం చేసుకోలేనివాడు",
+    "english_meaning": "The profound, inscrutable one",
+    "audio_url": null
+  },
+  {
+    "id": 65,
+    "telugu_name": "చంద్రవర్ణాయ",
+    "transliteration_en": "Chandra Varnaya",
+    "meaning_te": "చంద్రుని రంగు కలవాడు",
+    "english_meaning": "Of moon-like complexion",
+    "audio_url": null
+  },
+  {
+    "id": 66,
+    "telugu_name": "కళాధరాయ",
+    "transliteration_en": "Kaladharaya",
+    "meaning_te": "కళలను ధరించినవాడు",
+    "english_meaning": "Bearer of all arts",
+    "audio_url": null
+  },
+  {
+    "id": 67,
+    "telugu_name": "మాయాధరాయ",
+    "transliteration_en": "Mayaadharaya",
+    "meaning_te": "మాయను ధరించినవాడు",
+    "english_meaning": "Master of illusion",
+    "audio_url": null
+  },
+  {
+    "id": 68,
+    "telugu_name": "మహామాయినే",
+    "transliteration_en": "Maha Mayuthe",
+    "meaning_te": "మహా మాయావి",
+    "english_meaning": "The great illusionist",
+    "audio_url": null
+  },
+  {
+    "id": 69,
+    "telugu_name": "కైవల్యాయ",
+    "transliteration_en": "Kaivalyaya",
+    "meaning_te": "మోక్షం ప్రసాదించేవాడు",
+    "english_meaning": "Bestower of liberation",
+    "audio_url": null
+  },
+  {
+    "id": 70,
+    "telugu_name": "శంకరాత్మజాయ",
+    "transliteration_en": "Shankaratmajaya",
+    "meaning_te": "శంకరుని ఆత్మజుడు",
+    "english_meaning": "Soul of Shankara",
+    "audio_url": null
+  },
+  {
+    "id": 71,
+    "telugu_name": "విశ్వయోనయే",
+    "transliteration_en": "Viswayonaye",
+    "meaning_te": "విశ్వానికి మూలం",
+    "english_meaning": "Source of the universe",
+    "audio_url": null
+  },
+  {
+    "id": 72,
+    "telugu_name": "అమేయాత్మనే",
+    "transliteration_en": "Ameyathmaya",
+    "meaning_te": "కొలవలేని ఆత్మ కలవాడు",
+    "english_meaning": "Of immeasurable soul",
+    "audio_url": null
+  },
+  {
+    "id": 73,
+    "telugu_name": "తేజోనిధయే",
+    "transliteration_en": "Tejo Nidhaye",
+    "meaning_te": "తేజస్సు నిధి",
+    "english_meaning": "Treasury of brilliance",
+    "audio_url": null
+  },
+  {
+    "id": 74,
+    "telugu_name": "అనామయాయ",
+    "transliteration_en": "Anamayaya",
+    "meaning_te": "వ్యాధి రహితుడు",
+    "english_meaning": "The diseaseless one",
+    "audio_url": null
+  },
+  {
+    "id": 75,
+    "telugu_name": "పరమేష్ఠినే",
+    "transliteration_en": "Parameshtine",
+    "meaning_te": "పరమాత్ముడు",
+    "english_meaning": "The supreme being",
+    "audio_url": null
+  },
+  {
+    "id": 76,
+    "telugu_name": "పరబ్రహ్మణే",
+    "transliteration_en": "Parabrahmane",
+    "meaning_te": "పరబ్రహ్మ స్వరూపుడు",
+    "english_meaning": "Form of supreme Brahman",
+    "audio_url": null
+  },
+  {
+    "id": 77,
+    "telugu_name": "వేదగర్భాయ",
+    "transliteration_en": "Veda Garbhaya",
+    "meaning_te": "వేదాల సారాంశం",
+    "english_meaning": "Essence of Vedas",
+    "audio_url": null
+  },
+  {
+    "id": 78,
+    "telugu_name": "విరాట్సుతాయ",
+    "transliteration_en": "Virat Sutaya",
+    "meaning_te": "విరాట్ పురుష కుమారుడు",
+    "english_meaning": "Son of cosmic being",
+    "audio_url": null
+  },
+  {
+    "id": 79,
+    "telugu_name": "పుళిందకన్యాభర్త్రే",
+    "transliteration_en": "Pulinda Kanya Bharthaya",
+    "meaning_te": "వల్లీ దేవికి భర్త",
+    "english_meaning": "Husband of Valli",
+    "audio_url": null
+  },
+  {
+    "id": 80,
+    "telugu_name": "మహాసారస్వతావృతాయ",
+    "transliteration_en": "Mahasaraswatha Vruthaya",
+    "meaning_te": "సరస్వతి దేవితో ఉండేవాడు",
+    "english_meaning": "Surrounded by great wisdom",
+    "audio_url": null
+  },
+  {
+    "id": 81,
+    "telugu_name": "ఆశ్రితాఖిలదాత్రే",
+    "transliteration_en": "Aasrithakila Dhatrey",
+    "meaning_te": "శరణు వచ్చిన వారికి సర్వం ఇచ్చేవాడు",
+    "english_meaning": "Giver of everything to devotees",
+    "audio_url": null
+  },
+  {
+    "id": 82,
+    "telugu_name": "చోరఘ్నాయ",
+    "transliteration_en": "Choraghnaya",
+    "meaning_te": "దొంగలను నాశనం చేసేవాడు",
+    "english_meaning": "Destroyer of thieves",
+    "audio_url": null
+  },
+  {
+    "id": 83,
+    "telugu_name": "రోగనాశనాయ",
+    "transliteration_en": "Roga Nasanaya",
+    "meaning_te": "రోగాలను నాశనం చేసేవాడు",
+    "english_meaning": "Destroyer of diseases",
+    "audio_url": null
+  },
+  {
+    "id": 84,
+    "telugu_name": "అనంతమూర్తయే",
+    "transliteration_en": "Anantha Murthaye",
+    "meaning_te": "అనంత రూపాలు కలవాడు",
+    "english_meaning": "Of infinite forms",
+    "audio_url": null
+  },
+  {
+    "id": 85,
+    "telugu_name": "ఆనందాయ",
+    "transliteration_en": "Anandaya",
+    "meaning_te": "ఆనంద స్వరూపుడు",
+    "english_meaning": "Embodiment of bliss",
+    "audio_url": null
+  },
+  {
+    "id": 86,
+    "telugu_name": "శిఖండికృతకేతనాయ",
+    "transliteration_en": "Shikhanda Krita Ketanaya",
+    "meaning_te": "నెమలి ఈకను ధ్వజంగా కలవాడు",
+    "english_meaning": "One with peacock feather flag",
+    "audio_url": null
+  },
+  {
+    "id": 87,
+    "telugu_name": "డంభాయ",
+    "transliteration_en": "Dambhaya",
+    "meaning_te": "ప్రభావవంతుడు",
+    "english_meaning": "The majestic one",
+    "audio_url": null
+  },
+  {
+    "id": 88,
+    "telugu_name": "పరమడంభాయ",
+    "transliteration_en": "Parama Dambhaya",
+    "meaning_te": "అత్యంత ప్రభావవంతుడు",
+    "english_meaning": "The supremely majestic",
+    "audio_url": null
+  },
+  {
+    "id": 89,
+    "telugu_name": "మహాడంభాయ",
+    "transliteration_en": "Maha Dambhaya",
+    "meaning_te": "మహా ప్రభావవంతుడు",
+    "english_meaning": "The greatly majestic",
+    "audio_url": null
+  },
+  {
+    "id": 90,
+    "telugu_name": "వృషాకపయే",
+    "transliteration_en": "Vrusha Kapaye",
+    "meaning_te": "వృషభం మరియు కపి స్వరూపుడు",
+    "english_meaning": "Form of bull and monkey",
+    "audio_url": null
+  },
+  {
+    "id": 91,
+    "telugu_name": "కారణోపాత్తదేహాయ",
+    "transliteration_en": "Karanopatta Dehaya",
+    "meaning_te": "కారణ దేహం కలవాడు",
+    "english_meaning": "One with causal body",
+    "audio_url": null
+  },
+  {
+    "id": 92,
+    "telugu_name": "కారణాతీతవిగ్రహాయ",
+    "transliteration_en": "Karanaateetha Vigrahaya",
+    "meaning_te": "కారణానికి అతీతమైన రూపం కలవాడు",
+    "english_meaning": "Beyond causal form",
+    "audio_url": null
+  },
+  {
+    "id": 93,
+    "telugu_name": "అనీశ్వరాయ",
+    "transliteration_en": "Aneeshwaraya",
+    "meaning_te": "స్వతంత్రుడు",
+    "english_meaning": "The independent one",
+    "audio_url": null
+  },
+  {
+    "id": 94,
+    "telugu_name": "అమృతాయ",
+    "transliteration_en": "Amruthaya",
+    "meaning_te": "అమరుడు",
+    "english_meaning": "The immortal one",
+    "audio_url": null
+  },
+  {
+    "id": 95,
+    "telugu_name": "ప్రాణాయ",
+    "transliteration_en": "Pranaya",
+    "meaning_te": "ప్రాణ స్వరూపుడు",
+    "english_meaning": "Embodiment of life force",
+    "audio_url": null
+  },
+  {
+    "id": 96,
+    "telugu_name": "ప్రాణాయామపరాయణాయ",
+    "transliteration_en": "Pranayama Parayanaya",
+    "meaning_te": "ప్రాణాయామానికి దేవుడు",
+    "english_meaning": "Lord of pranayama",
+    "audio_url": null
+  },
+  {
+    "id": 97,
+    "telugu_name": "విరుద్ధహంత్రే",
+    "transliteration_en": "Viruddha Hantre",
+    "meaning_te": "శత్రువులను సంహరించేవాడు",
+    "english_meaning": "Slayer of opponents",
+    "audio_url": null
+  },
+  {
+    "id": 98,
+    "telugu_name": "వీరఘ్నాయ",
+    "transliteration_en": "Veeraghnaya",
+    "meaning_te": "వీరులను జయించేవాడు",
+    "english_meaning": "Conqueror of heroes",
+    "audio_url": null
+  },
+  {
+    "id": 99,
+    "telugu_name": "రక్తాస్యాయ",
+    "transliteration_en": "Raktasyaya",
+    "meaning_te": "ఎరుపు రంగు ముఖం కలవాడు",
+    "english_meaning": "Red-faced one",
+    "audio_url": null
+  },
+  {
+    "id": 100,
+    "telugu_name": "శ్యామకంధరాయ",
+    "transliteration_en": "Shyama Kandharaya",
+    "meaning_te": "నల్లని కంఠం కలవాడు",
+    "english_meaning": "Dark-throated one",
+    "audio_url": null
+  },
+  {
+    "id": 101,
+    "telugu_name": "సుబ్రహ్మణ్యాయ",
+    "transliteration_en": "Subrahmanyaya",
+    "meaning_te": "బ్రాహ్మణులకు శుభం కలిగించేవాడు",
+    "english_meaning": "Auspicious to Brahmanas",
+    "audio_url": null
+  },
+  {
+    "id": 102,
+    "telugu_name": "గుహాయ",
+    "transliteration_en": "Guhaya",
+    "meaning_te": "గుహలో నివసించేవాడు, రహస్యమైనవాడు",
+    "english_meaning": "One who dwells in caves, the mysterious one",
+    "audio_url": null
+  },
+  {
+    "id": 103,
+    "telugu_name": "ప్రీతాయ",
+    "transliteration_en": "Preethaya",
+    "meaning_te": "ప్రసన్నుడు",
+    "english_meaning": "The pleased one",
+    "audio_url": null
+  },
+  {
+    "id": 104,
+    "telugu_name": "బ్రహ్మణ్యాయ",
+    "transliteration_en": "Brahmanyaya",
+    "meaning_te": "బ్రహ్మ స్వరూపుడు",
+    "english_meaning": "Of Brahman nature",
+    "audio_url": null
+  },
+  {
+    "id": 105,
+    "telugu_name": "బ్రాహ్మణప్రియాయ",
+    "transliteration_en": "Brahmanapriyaya",
+    "meaning_te": "బ్రాహ్మణులకు ప్రియమైనవాడు",
+    "english_meaning": "Dear to Brahmanas",
+    "audio_url": null
+  },
+  {
+    "id": 106,
+    "telugu_name": "వంశవృద్ధికరాయ",
+    "transliteration_en": "Vamshavruddhi Karaya",
+    "meaning_te": "వంశం వృద్ధి చేసేవాడు",
+    "english_meaning": "One who increases lineage",
+    "audio_url": null
+  },
+  {
+    "id": 107,
+    "telugu_name": "వేదవేద్యాయ",
+    "transliteration_en": "Vedavedhyaya",
+    "meaning_te": "వేదాల ద్వారా తెలిసేవాడు",
+    "english_meaning": "Known through Vedas",
+    "audio_url": null
+  },
+  {
+    "id": 108,
+    "telugu_name": "అక్షయఫలప్రదాయ",
+    "transliteration_en": "Akshaya Phalapradaya",
+    "meaning_te": "అక్షయమైన ఫలాలను ప్రదానం చేసేవాడు",
+    "english_meaning": "Giver of imperishable fruits and eternal benefits",
+    "audio_url": null
+  }
+]

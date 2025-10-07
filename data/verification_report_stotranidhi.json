@@ -1,0 +1,43 @@
+{
+  "canonical_count": 108,
+  "dataset_count": 108,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "duplicate_dataset_telugu": [
+    {
+      "telugu": "గుహాయ",
+      "ids": [
+        2,
+        102
+      ]
+    },
+    {
+      "telugu": "శక్తిధరాయ",
+      "ids": [
+        11,
+        24
+      ]
+    },
+    {
+      "telugu": "శంకరాత్మజాయ",
+      "ids": [
+        30,
+        70
+      ]
+    }
+  ],
+  "duplicate_canonical_telugu": [
+    {
+      "telugu": "గుహాయ",
+      "count": 2
+    },
+    {
+      "telugu": "శక్తిధరాయ",
+      "count": 2
+    },
+    {
+      "telugu": "శంకరాత్మజాయ",
+      "count": 2
+    }
+  ]
+}
