@@ -1,7 +1,7 @@
 'use client';
 
 import { names } from '../../src/data/names';
-import { getProgress, markMastered, getNameState, isMastered, countMastered } from '../../src/lib/progress';
+import { type Progress, getProgress, markMastered, getNameState, isMastered, countMastered } from '../../src/lib/progress';
 import { getLessonCount, getLessonLabel } from '../../src/lib/chunking';
 import { useState, useEffect } from 'react';
 
@@ -17,7 +17,7 @@ export default function ChallengePage() {
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [options, setOptions] = useState<Array<{text: string, isCorrect: boolean}>>([]);
   const [availableNames, setAvailableNames] = useState<typeof names>([]);
-  const [progress, setProgress] = useState<{ mastered: Record<number, boolean>; seen: Record<number, number> }>({ mastered: {}, seen: {} });
+  const [progress, setProgress] = useState<Progress>({ mastered: {}, seen: {}, bookmarked: {} });
 
   const totalLessons = getLessonCount(names.length);
 

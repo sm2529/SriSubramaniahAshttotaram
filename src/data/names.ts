@@ -1,4 +1,5 @@
 import namesData from '../../data/names.json';
+import { nameSupplements } from './nameMetadata';
 
 export type Name = {
   id: number;
@@ -7,9 +8,17 @@ export type Name = {
   english_meaning: string;
   meaning_te?: string;
   audio_url?: string | null;
+  image?: string;
+  application?: string;
+  significance?: string;
 };
 
-export const names: Name[] = namesData as Name[];
+type RawName = Name;
+
+export const names: Name[] = (namesData as RawName[]).map((name) => ({
+  ...name,
+  ...nameSupplements[name.id],
+}));
 
 export function getNameById(id: number): Name | undefined {
   return names.find(n => n.id === id);

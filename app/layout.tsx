@@ -18,12 +18,15 @@ export default function RootLayout({ children }: { children: ReactNode }) {
             </div>
             <nav>
               <a href="/" className="btn">Home</a>
-              <a href="/challenge" className="btn" style={{ marginLeft: 8 }}>Challenge</a>
+              <a href="/review" className="btn" style={{ marginLeft: 8 }}>Review</a>
             </nav>
           </header>
           {children}
           <footer className="footer">
-            <p>App created by Suma Mandalapu.</p>
+            <p>
+              App created by Suma M, send feedback{' '}
+              <a href="mailto:info@kumaraswamy.in">here</a>.
+            </p>
           </footer>
         </div>
       </body>
